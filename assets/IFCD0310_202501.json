@@ -53,7 +53,7 @@
             "imagen" : "",
             "descripcion" : "es un proyecto",
             "inicio" : {    
-                    "Sistemas Operativos":0,
+                    "Sistemas Operativos":1,
                     "Base de datos" : 0,
 
                 "SQL" : 0,
